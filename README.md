@@ -39,22 +39,8 @@ npm start
 cd frontend
 npm install
 npm run dev
-```
-```bash
+ ```
+
 Open localhost:5173
-```
-```bash
-**2. Check it looks good**
-Click the `Preview` tab on the top left. It should show formatted text, not code.
 
-**3. Commit it**
-Scroll to the bottom > 
-- Commit message: `Update README with setup instructions`
-- Click green button: `Commit changes`
-
----
-```
-
-Once you commit and refresh, your repo homepage will show the full formatted README instead of just `gath-auth-mern`.
-
-Want me to also give you the text for a `.env.example` file to add next?
+ 
